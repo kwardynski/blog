@@ -21,7 +21,6 @@ defmodule Blog.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:html_entities, "~> 0.5.2"},
       {:floki, "~> 0.36.2"},
       {:mdex, "~> 0.2.0"},
       {:nimble_publisher, "~> 1.1"},
