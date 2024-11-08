@@ -24,6 +24,7 @@ defmodule Blog.MixProject do
       {:floki, "~> 0.36.2"},
       {:mdex, "~> 0.2.0"},
       {:nimble_publisher, "~> 1.1"},
+      {:phoenix_live_view, "~> 0.18.2"},
       {:yaml_elixir, "~> 2.11"}
     ]
   end

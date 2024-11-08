@@ -1,5 +1,9 @@
 # Blog
 
+https://fly.io/phoenix-files/crafting-your-own-static-site-generator-using-phoenix/
+
+https://mishka.tools/blog/build-a-static-site-in-elixir-under-5-minutes-with-phoenix-components
+
 **TODO: Add description**
 
 ## Installation
