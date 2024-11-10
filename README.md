@@ -4,6 +4,8 @@ https://fly.io/phoenix-files/crafting-your-own-static-site-generator-using-phoen
 
 https://mishka.tools/blog/build-a-static-site-in-elixir-under-5-minutes-with-phoenix-components
 
+[Jira board](https://kwardynski.atlassian.net/jira/software/projects/BLOG/boards/14)
+
 **TODO: Add description**
 
 ## Installation
