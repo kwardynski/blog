@@ -37,11 +37,11 @@ defmodule Blog do
     <.layout>
       <h1>The Blog</h1>
       <h2>The Posts</h2>
-      <ul>
-        <li :for={post <- @posts}>
+      <div class="card-grid">
+        <div :for={post <- @posts}>
           <a href={post.path}> <%= post.title %> </a>
-        </li>
-      </ul>
+        </div>
+      </div>
     </.layout>
     """
   end
