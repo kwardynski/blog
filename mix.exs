@@ -21,10 +21,12 @@ defmodule Blog.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
+      {:esbuild, "~> 0.5"},
       {:floki, "~> 0.36.2"},
       {:mdex, "~> 0.2.0"},
       {:nimble_publisher, "~> 1.1"},
       {:phoenix_live_view, "~> 0.18.2"},
+      {:tailwind, "~> 0.1.8"},
       {:yaml_elixir, "~> 2.11"}
     ]
   end
