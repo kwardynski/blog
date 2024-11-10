@@ -57,8 +57,9 @@ defmodule Blog do
   def layout(assigns) do
     ~H"""
     <head>
-      <link rel="stylesheet" href="./assets/app.css" />
-      <script type="text/javascript" src="./assets/app.js" />
+      <link rel="stylesheet" href="/assets/app.css" />
+      <script type="text/javascript" src="/assets/app.js" />
+      <meta charset="UTF-8">
     </head>
     <html>
       <body>
